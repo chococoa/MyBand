@@ -1,5 +1,5 @@
 //
-//  Instrument.swift
+//  Band.swift
 //  MyBand
 //
 //  Created by Emmy Huynh on 8/31/22.

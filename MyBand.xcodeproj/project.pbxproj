@@ -15,7 +15,7 @@
 		8898083A28C00B4300D30AC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8898083828C00B4300D30AC2 /* LaunchScreen.storyboard */; };
 		8898084528C00B4400D30AC2 /* MyBandTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898084428C00B4400D30AC2 /* MyBandTests.swift */; };
 		8898085028C00B4400D30AC2 /* MyBandUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898084F28C00B4400D30AC2 /* MyBandUITests.swift */; };
-		8898086128C00B5700D30AC2 /* Instrument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898086028C00B5700D30AC2 /* Instrument.swift */; };
+		8898086E28C00D1100D30AC2 /* Band.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898086D28C00D1100D30AC2 /* Band.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +50,7 @@
 		8898084B28C00B4400D30AC2 /* MyBandUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyBandUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8898084F28C00B4400D30AC2 /* MyBandUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyBandUITests.swift; sourceTree = "<group>"; };
 		8898085128C00B4400D30AC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8898086028C00B5700D30AC2 /* Instrument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instrument.swift; sourceTree = "<group>"; };
+		8898086D28C00D1100D30AC2 /* Band.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Band.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +104,7 @@
 				8898082D28C00B4100D30AC2 /* AppDelegate.swift */,
 				8898082F28C00B4100D30AC2 /* SceneDelegate.swift */,
 				8898083128C00B4100D30AC2 /* ViewController.swift */,
-				8898086028C00B5700D30AC2 /* Instrument.swift */,
+				8898086D28C00D1100D30AC2 /* Band.swift */,
 				8898083328C00B4100D30AC2 /* Main.storyboard */,
 				8898083628C00B4300D30AC2 /* Assets.xcassets */,
 				8898083828C00B4300D30AC2 /* LaunchScreen.storyboard */,
@@ -261,8 +261,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8898086128C00B5700D30AC2 /* Instrument.swift in Sources */,
 				8898083228C00B4100D30AC2 /* ViewController.swift in Sources */,
+				8898086E28C00D1100D30AC2 /* Band.swift in Sources */,
 				8898082E28C00B4100D30AC2 /* AppDelegate.swift in Sources */,
 				8898083028C00B4100D30AC2 /* SceneDelegate.swift in Sources */,
 			);
