@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		887FE96628C1558D007B613D /* Music.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887FE96528C1558D007B613D /* Music.swift */; };
+		887FE96B28C155A8007B613D /* Instrument.swift in Sources */ = {isa = PBXBuildFile; fileRef = 887FE96A28C155A8007B613D /* Instrument.swift */; };
 		8898082E28C00B4100D30AC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898082D28C00B4100D30AC2 /* AppDelegate.swift */; };
 		8898083028C00B4100D30AC2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898082F28C00B4100D30AC2 /* SceneDelegate.swift */; };
 		8898083228C00B4100D30AC2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8898083128C00B4100D30AC2 /* ViewController.swift */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		887FE96528C1558D007B613D /* Music.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Music.swift; sourceTree = "<group>"; };
+		887FE96A28C155A8007B613D /* Instrument.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Instrument.swift; sourceTree = "<group>"; };
 		8898082A28C00B4100D30AC2 /* MyBand.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyBand.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8898082D28C00B4100D30AC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8898082F28C00B4100D30AC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -105,6 +109,8 @@
 				8898082F28C00B4100D30AC2 /* SceneDelegate.swift */,
 				8898083128C00B4100D30AC2 /* ViewController.swift */,
 				8898086D28C00D1100D30AC2 /* Band.swift */,
+				887FE96A28C155A8007B613D /* Instrument.swift */,
+				887FE96528C1558D007B613D /* Music.swift */,
 				8898083328C00B4100D30AC2 /* Main.storyboard */,
 				8898083628C00B4300D30AC2 /* Assets.xcassets */,
 				8898083828C00B4300D30AC2 /* LaunchScreen.storyboard */,
@@ -263,7 +269,9 @@
 			files = (
 				8898083228C00B4100D30AC2 /* ViewController.swift in Sources */,
 				8898086E28C00D1100D30AC2 /* Band.swift in Sources */,
+				887FE96628C1558D007B613D /* Music.swift in Sources */,
 				8898082E28C00B4100D30AC2 /* AppDelegate.swift in Sources */,
+				887FE96B28C155A8007B613D /* Instrument.swift in Sources */,
 				8898083028C00B4100D30AC2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
